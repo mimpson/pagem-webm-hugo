@@ -79,6 +79,8 @@ For absolute URLs to work correctly on IPFS, you need to configure the URLs to b
 ```toml
 relativeURLs = true
 
+
+    yuty657tugjbuh97675tygh
 ```
 
 ## 👀 Want to learn more?
