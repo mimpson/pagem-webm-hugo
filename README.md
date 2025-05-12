@@ -4,7 +4,6 @@
 
 ## 🚀 Project Structure
 
-Inside of your Hugo project, you'll see the following folders and files:
 
 ```text
 /
