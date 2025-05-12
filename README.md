@@ -19,7 +19,6 @@ If you want to learn more about `Hugo`, you can checkout the official [Hugo Docu
 
 ## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
 
 | Command       | Action                        |
 | :------------ | :---------------------------- |
